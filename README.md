@@ -1,7 +1,13 @@
-# Michael Travel Agent
+# Langchain Travel Agent
 
 This is a single-agent travel planning application built with **LangChain (v1.2+)**.  
 It generates a detailed, multi-city travel plan using real-time data from Google Maps APIs.
+
+## Running the Project
+
+```bash
+uv run python main.py
+
 
 ## Features
 - Supports **multi-city trips** with single dates or date ranges
